@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SanDieg0
+- 👋 Hi, I’m Diego
 - 👀 I’m a business administrator interested in this wonderful world of programming
 - 🌱 I’m currently learning web development (HTML, CSS, JS)
 - 💞️ I’m looking to collaborate on games in the future
